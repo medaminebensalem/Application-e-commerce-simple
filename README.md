@@ -7,7 +7,7 @@ Une application web de e-commerce avec panier, authentification et interface d�
 
 <img src="im.png" alt="Aperçu" width="600"/>
 
-2- v2
+2- v2 avec bootsrap
 
 
 <img src="v2.png" alt="Aperçu" width="600"/>
